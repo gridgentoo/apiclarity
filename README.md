@@ -1,3 +1,6 @@
+[APIClarity] Continuous API Security  
+https://docs.google.com/document/d/1W7qU6xQlC_bcltUP_DRwCQutjzU4Hxey2LlUex0DLc8/   
+
 # APIClarity
 
 ![APIClarity](API_clarity.svg "APIClarity")
